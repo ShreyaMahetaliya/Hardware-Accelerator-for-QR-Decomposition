@@ -21,8 +21,7 @@ Power and Energy Efficiency: Use power-aware design techniques and dynamic volta
 Fault Tolerance and Reliability: Enhance fault tolerance mechanisms and error correction codes to improve robustness.
 
 Usage
-1. Clone the Repository:
-git clone https://github.com/yourusername/qr-decomposition-accelerator.git
+1. Clone the Repository
 2. Navigate to the Project Directory
 3. Run Simulations: Use simulation scripts with tools like Vivado, Quartus/ModelSim, or VCS.
 4. QR Decomposition Module: The qr_decomp is the main module. You can add any input matrix (3x3) in the qrdecomp_tb test bench (please take a look at the limitations).
